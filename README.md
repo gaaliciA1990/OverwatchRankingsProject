@@ -1,4 +1,4 @@
-# OverwatchRankingsProject
+# Overwatch Rankings Project
 This is an analysis of Overwatch Competitive gameplay: How player flexibility for team compositions, coupled with character mastery affects the players competitive ranking.
 
 ## Data Source
@@ -9,3 +9,4 @@ TBD (Blizzard). The data analyzes the following criteria:
 * Players
 
 ## Hypothesis
+Player with more than 1 character main perform better in Competitive Rankings due to team composition flexibility.
