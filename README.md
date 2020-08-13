@@ -16,4 +16,6 @@ Blizzard Overwatch - OmnicMeta (private data set, non disclosure)
 * Player competitive win/loss/draw for each character (26 characters total)
 
 ## Results
-TBD
+The final results proved we are unable to predict a players SR based off of the number of characters they played as mains.
+
+While this may appear to be a failure, the results show how well balanced the game design is and points towards a correlation between the total number of games played and a players SR (rank). Blizzards goal with Overwatch is to create a game with characters that are well balanced between each other, menaing no one character can hold all of the power in the game. The data shows that this goal has been accomplished, and the idea that playing more game to improve a players skill is supported with the evidence displayed in this project.
